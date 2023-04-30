@@ -3,4 +3,5 @@
     // doesn't exist in flow-bin 0.96.0.
     "flow.useNPMPackagedFlow": false,
     "flow.pathToFlow": "${workspaceFolder}/node_modules/.bin/flow",
+    "eggHelper.serverPort": 35684,
 }
